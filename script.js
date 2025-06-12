@@ -1,3 +1,5 @@
+// Script improved for clarity
+
 console.log("Welcome to Spotify");
 
 // Initialize the Variables
